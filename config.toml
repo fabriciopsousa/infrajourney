@@ -1,0 +1,4 @@
+baseURL = "https://infrajourney.com/"
+languageCode = "en-us"
+title = "InfraJourney"
+theme = "infra-theme"
